@@ -1,2 +1,2 @@
-# dbms-assignment-1
+# dbms-assignment
 Online video streaming
